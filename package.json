@@ -1,8 +1,0 @@
-{
-  "name": "adaptive",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/vitorDelmondes/adaptive.git",
-  "author": "vDelmondes",
-  "license": "MIT"
-}
